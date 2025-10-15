@@ -1,4 +1,4 @@
-# Ominimo - Laravel + Inertia.js + React
+# Ominimo - Laravel + React (Inertia.js) + TailwindCSS
 
 Task: Create a Simple Blog Application in Laravel
 
@@ -14,7 +14,7 @@ Before you begin, make sure you have the following installed:
 
 ## 🚀 Installation
 
-Follow these steps to run the project locally, and if you face issues please contact me.
+Follow these steps to run the project locally. If you encounter any issues, don't hesitate to contact me.
 
 ### 1. Clone the repository
 
