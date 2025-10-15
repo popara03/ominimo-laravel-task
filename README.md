@@ -1,6 +1,6 @@
 # Ominimo - Laravel + React (Inertia.js) + TailwindCSS
 
-Task: Create a Simple Blog Application in Laravel
+Task: Create a Simple Blog Application in Laravel (<a href="https://docs.google.com/document/d/1oAI6kRqSkpuvHPK4neS9q_8m-ODBKtDu/edit?usp=sharing&ouid=102363176275154080311&rtpof=true&sd=true">instructions</a>)
 
 ## 📋 Prerequisites
 
